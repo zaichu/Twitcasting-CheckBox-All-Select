@@ -1,0 +1,27 @@
+{
+    "name": "Twitcasting RecordingDelete Support",
+    "description": "ツイキャスの録画削除選択のサポートを行います。",
+    "version": "1.0",
+    "manifest_version": 3,
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "select_checkbox_all.js"
+            ],
+            "matches": [
+                "https://twitcasting.tv/*"
+            ]
+        }
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://twitcasting.tv/*"
+            ],
+            "run_at": "document_start",
+            "js": [
+                "select_checkbox_all.js"
+            ]
+        }
+    ]
+}
