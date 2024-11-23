@@ -1,6 +1,6 @@
 {
-    "name": "Twitcasting RecordingDelete Support",
-    "description": "ツイキャスの録画削除選択のサポートを行います。",
+    "name": "Twitcasting CheckBox All Select",
+    "description": "ツイキャスのチェックボックスはデフォルトでONにします。",
     "version": "1.0",
     "manifest_version": 3,
     "web_accessible_resources": [
