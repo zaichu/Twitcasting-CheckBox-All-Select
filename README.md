@@ -9,7 +9,7 @@
 
 ## インストール方法
 
-1. このリポジトリをクローンまたはダウンロードします。
+1. このリポジトリをクローンまたはzipファイルをダウンロードします。
    ```bash
    git clone https://github.com/zaichu/Twitcasting-CheckBox-All-Select.git
 
@@ -19,8 +19,7 @@
 
 ## 使用方法
 
-1. Twitcasting の録画管理ページを開きます。
-2. 拡張機能のアイコンをクリックすると、すべてのチェックボックスが選択されます。
+1. Twitcasting のページにアクセスするだけです。
 
 ## 注意事項
 
