@@ -4,7 +4,7 @@
 
 ## 機能
 
-- Twitcasting の録画管理ページ（`https://twitcasting.tv/*/broadcastermanage`）で動作します。
+- Twitcasting のページ（`https://twitcasting.tv/*`）で動作します。
 - ページ上のすべてのチェックボックスを一括で選択できます。
 
 ## インストール方法
