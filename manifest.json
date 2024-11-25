@@ -4,9 +4,7 @@
     "description": "ツイキャスのチェックボックスをデフォルトでONにする便利な拡張機能。",
     "version": "1.0",
     "manifest_version": 3,
-    "permissions": [
-        "scripting"
-    ],
+    "permissions": [],
     "host_permissions": [
         "https://twitcasting.tv/*"
     ],
